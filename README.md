@@ -8,17 +8,11 @@
 
 <h2 align="left">Sobre mi</h2>
 
-###
-
-<p align="left">💻 Apasionado por el Desarollo de Software</p>
-<p align="left">🌐 Actualmente trabajando como QA en Control Union</p>
-<p align="left">✍️ Construyendo mi propia pagina web</p>
+<p align="left">💻 Apasionado por el Desarollo de Software <br>🌐 Actualmente trabajando como QA en Control Union <br>✍️ Construyendo mi propia pagina web</p>
 
 ###
 
 <h2 align="left">Tecnologias</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
