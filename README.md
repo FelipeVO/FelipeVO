@@ -10,7 +10,9 @@
 
 ###
 
-<p align="left">Apasionado por el Desarollo de Software</p>
+<p align="left">💻 Apasionado por el Desarollo de Software</p>
+<p align="left">🌐 Actualmente trabajando como QA en Control Union</p>
+<p align="left">✍️ Construyendo mi propia pagina web</p>
 
 ###
 
