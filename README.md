@@ -1,10 +1,5 @@
 <h1 align="left">Felipe Varela Olid</h1>
 
-###
-
-
-<h2 align="left">Sobre mi</h2>
-
 <p align="left">💻 Apasionado por el Desarollo de Software <br>🌐 Actualmente trabajando como QA en Control Union <br>✍️ Construyendo mi propia pagina web</p>
 
 ###
