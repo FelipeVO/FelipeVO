@@ -1,4 +1,4 @@
-<img src="https://github.com/FelipeVO/FelipeVO/blob/main/logo-fiuba.png" alt="Fiuba Banner" width="100%" />
+<img src="https://github.com/FelipeVO/FelipeVO/blob/main/logo-fiuba.png" alt="Fiuba Banner" width="80%" />
 
 <h1 align="left">Felipe Varela Olid</h1>
 
