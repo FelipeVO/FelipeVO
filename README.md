@@ -1,3 +1,5 @@
+<img src="banner_github.png" alt="Fiuba Banner" width="100%" />
+
 <h1 align="left">Felipe Varela Olid</h1>
 
 <p align="left">💻 Apasionado por el Desarollo de Software <br>🌐 Actualmente trabajando como QA en Control Union <br>✍️ Construyendo mi propia pagina web</p>
