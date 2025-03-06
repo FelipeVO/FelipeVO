@@ -2,9 +2,6 @@
 
 ###
 
-<p align="left">Estudiante de Ingenieria Informatica en la Univerdsidad de Buenos Aires</p>
-
-###
 
 <h2 align="left">Sobre mi</h2>
 
